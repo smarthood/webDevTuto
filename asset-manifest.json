@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/webDevTuto/static/css/main.5231994b.css",
+    "main.js": "/webDevTuto/static/js/main.ce8f6605.js",
+    "index.html": "/webDevTuto/index.html",
+    "main.5231994b.css.map": "/webDevTuto/static/css/main.5231994b.css.map",
+    "main.ce8f6605.js.map": "/webDevTuto/static/js/main.ce8f6605.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5231994b.css",
+    "static/js/main.ce8f6605.js"
+  ]
+}
